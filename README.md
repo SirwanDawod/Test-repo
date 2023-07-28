@@ -1,4 +1,4 @@
 # Test-repo
 
-Description of ....! -m
-Change Nr 1
+*Description of ....! -m
+*Change Nr 1
